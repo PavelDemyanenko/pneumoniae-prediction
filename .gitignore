@@ -1,0 +1,9 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
+/.idea/
+
+# dependencies
+/chest-xray-pneumonia
+
+settings.json
